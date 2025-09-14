@@ -33,7 +33,7 @@ layers:
   - {t: ., s: ':'}
   - {t: '!', s: '?'}
   - Gaming
-  - {type: trans}
+  - {t: Magic, h: Shift}
   - {t: Tab, h: Nav}
   - {t: Spc, h: Sym}
   - {t: ENTER, h: Num}
